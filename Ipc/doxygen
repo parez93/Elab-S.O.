@@ -1,0 +1,5 @@
+PROJECT_NAME = Processi
+OUTPUT_DIRECTORY = /home/federico/Scrivania
+INPUT = ram.c main.c processore2.c
+RECURSIVE = NO
+GENERATE_HTML = YES
